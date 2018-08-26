@@ -5,5 +5,6 @@ git add .
 
 git commit -m "auto push"
 
-git push origin master
+git push ericdai713 master
 
+# git push origin master
